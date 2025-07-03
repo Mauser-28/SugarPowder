@@ -1,5 +1,5 @@
 #include <iostream>
-#include "C:\Users\user\source\repos\Project6 Dynamic\Project6 Dynamic\interactionWithDynamicArray.h"
+#include "interactionWithDynamicArray.h"
 #include "functions.h"
 #include <fstream>
 
